@@ -6,5 +6,8 @@ public class Main {
     public static void main(String[] args) {
         //Generuje komende wypisywania do konsoli
         System.out.println("Hello World!");
+        //naura
+        // zmiany ktore chce zmergowac
+
     }
 }
